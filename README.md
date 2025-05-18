@@ -6,6 +6,7 @@ This project demonstrates my process of exploring and analyzing a dataset using 
 
 **Processes Performed With Project**
 There are 14 scripts #0-13
+
 00. The initial creation of the database
 01. Exploration of the database - List all tables and columns for a table.
 02. Exploration of the dimensions - Exploring the countries of customers and product information.
