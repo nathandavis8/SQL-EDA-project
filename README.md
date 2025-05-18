@@ -2,6 +2,8 @@
 
 This project demonstrates my process of exploring and analyzing a dataset using SQL. Exploratory Data Analysis (EDA) is used to understand the dimensions and measures within a dataset. 
 
+![alt text](https://github.com/nathandavis8/SQL-EDA-project/blob/main/EDA%20Diagram.drawio.png?raw=true)
+
 **Processes Performed With Project**
 There are 14 scripts #0-13
 00. The initial creation of the database
